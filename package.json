@@ -1,0 +1,13 @@
+{
+	"name": "escape",
+	"description": "escape",
+	"repository": "scrapo/escape",
+	"version": "1.0.0",
+	"main": "escape.js",
+	"scripts": {
+		"test": "mocha --ui tdd test"
+	},
+	"devDependencies": {
+		"mocha": "^3.1.2"
+	}
+}
